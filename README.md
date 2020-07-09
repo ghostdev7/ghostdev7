@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello Deveryone 👋
+
+I am an application developer and I love to code and love to explore new technologies out there.
+- 🔭 I’m currently working on Angular for web applications and Flutter for mobile apps development.
+- 🌱 I’m currently learning Rust.
+- 👯 I’m looking to collaborate on Flutter based projects.
+- 💬 Ask me about Angular
+- 📫 How to reach me: devx.ghost[at]gmail.com
 
 <!--
 **ghostdev7/ghostdev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
